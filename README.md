@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Sarang Lee, a front-end developer who has UX design working experience.
+
+<br>
+
 ### SKills
 
 #### Front-end
@@ -8,11 +12,13 @@
 #### Design
 - Sketch App / Figma / Zeplin / Photoshop / Illustrator / Protopie
 
+<br>
 
-### Contact
+#### Contact
 
 - rosaranglee@gmail.com
 - https://velog.io/@rosarang
+
 
 <!--
 **rosarang/rosarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
