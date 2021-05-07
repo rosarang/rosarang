@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+### SKills
+
+#### Front-end
+- JavaScript / TypeScript / React / Redux / Redux Thunk / Sass / Styled Components / Tailwind CSS / HTML / CSS
+
+#### Design
+- Sketch App / Figma / Zeplin / Photoshop / Illustrator / Protopie
+
+
+### Contact
+
+- rosaranglee@gmail.com
+- https://velog.io/@rosarang
+
 <!--
 **rosarang/rosarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
