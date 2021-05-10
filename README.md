@@ -4,7 +4,7 @@ I'm Sarang Lee, a front-end developer who has UX design working experience.
 
 <br>
 
-### SKills
+### Skills
 
 #### Front-end
 - JavaScript / TypeScript / React / Redux / Redux Thunk / Sass / Styled Components / Tailwind CSS / HTML / CSS
