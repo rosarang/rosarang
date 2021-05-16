@@ -14,7 +14,7 @@ I'm Sarang Lee, a front-end developer who has UX design working experience.
 
 <br>
 
-#### Contact
+### Contact
 
 - rosaranglee@gmail.com
 - https://velog.io/@rosarang
